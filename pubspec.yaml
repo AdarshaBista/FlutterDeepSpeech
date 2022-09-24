@@ -1,6 +1,6 @@
 name: flutter_deep_speech
 description: Flutter plugin for speech recognition and transcription using DeepSpeech.
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/AdarshaBista/FlutterDeepSpeech
 
 environment:
@@ -14,7 +14,7 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_lints: ^1.0.0
+  flutter_lints: ^2.0.1
 
 flutter:
   plugin:

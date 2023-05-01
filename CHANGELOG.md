@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.0.3
+
+- Bump Flutter version to 3.7
+
 ## 0.0.2
 
 - Bump Flutter version to 3.3

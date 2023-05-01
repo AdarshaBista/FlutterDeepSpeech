@@ -1,7 +1,7 @@
 name: flutter_deep_speech_example
 description: Demonstrates how to use the flutter_deep_speech plugin.
 
-publish_to: 'none'
+publish_to: "none"
 
 environment:
   sdk: ">=2.15.1 <3.0.0"
@@ -9,7 +9,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  path_provider: ^2.0.11
+  path_provider: ^2.0.14
   flutter_deep_speech:
     path: ../
 
